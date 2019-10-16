@@ -3,6 +3,8 @@ Official Website of Kalmunai IT Hub
 
 ## How to Contribute ?
 
+1. Fork The Repository
+
 
 ## Contributors
 
