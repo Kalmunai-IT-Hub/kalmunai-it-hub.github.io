@@ -3,7 +3,9 @@ Official Website of Kalmunai IT Hub
 
 ## How to Contribute ?
 
-1. Fork The Repository
+1. Fork The [Repository](https://github.com/Kalmunai-IT-Hub/kalmunai-it-hub.github.io)
+2. Clone it to your PC.
+3. Do Changes/ Add Commit.
 
 
 ## Contributors
