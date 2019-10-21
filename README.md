@@ -6,6 +6,8 @@ Official Website of Kalmunai IT Hub
 1. Fork The [Repository](https://github.com/Kalmunai-IT-Hub/kalmunai-it-hub.github.io)
 2. Clone it to your PC.
 3. Do Changes/ Add Commit.
+4. Push to your Repository.
+5. Send a PR (Pull Request) to the Master Repo.
 
 
 ## Contributors
