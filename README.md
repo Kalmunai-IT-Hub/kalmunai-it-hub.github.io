@@ -18,6 +18,6 @@ See also the list of [contributors](https://github.com/Kalmunai-IT-Hub/kalmunai-
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Safnaj/School-Management-System/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Safnaj/) file for details
 
 
