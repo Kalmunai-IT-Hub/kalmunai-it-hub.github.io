@@ -5,7 +5,7 @@ Official Website of Kalmunai IT Hub
 
 1. Fork The [Repository](https://github.com/Kalmunai-IT-Hub/kalmunai-it-hub.github.io)
 2. Clone it to your PC.
-3. Do Changes/ Add Commit.
+3. Develop or Fix Bugs
 4. Push to your Repository.
 5. Send a PR (Pull Request) to the Master Repo.
 
@@ -18,6 +18,6 @@ See also the list of [contributors](https://github.com/Kalmunai-IT-Hub/kalmunai-
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Safnaj/) file for details
+This project is licensed under the MIT License - see the [LICENSE.md]() file for details
 
 
