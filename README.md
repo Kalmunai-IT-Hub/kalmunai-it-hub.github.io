@@ -12,7 +12,9 @@ Official Website of Kalmunai IT Hub
 
 ## Contributors
 
-* **Ahamed Safnaj** - *Developer* - [Website](https://ahamedsafnaj.blogspot.com)
+<a href="https://github.com/Kalmunai-IT-Hub/kalmunai-it-hub.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kalmunai-IT-Hub/kalmunai-it-hub.github.io" />
+</a>
 
 See also the list of [contributors](https://github.com/Kalmunai-IT-Hub/kalmunai-it-hub.github.io/graphs/contributors) who participated in this project.
 
