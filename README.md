@@ -16,7 +16,6 @@ Official Website of Kalmunai IT Hub
   <img src="https://contrib.rocks/image?repo=Kalmunai-IT-Hub/kalmunai-it-hub.github.io" />
 </a>
 
-See also the list of [contributors](https://github.com/Kalmunai-IT-Hub/kalmunai-it-hub.github.io/graphs/contributors) who participated in this project.
 
 ## License
 
